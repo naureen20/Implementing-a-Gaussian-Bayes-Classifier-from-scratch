@@ -5,5 +5,5 @@ Decision Boundary is visualized as follows:
 
 <img src="https://github.com/naureen20/Implementinga-a-Gaussian-Bayes-Classifier-from-scratch/blob/master/Screenshot%20(80).png">
 
-Model Has following CLassification report from which model accuracy is observed as 80%
+Model Has following CLassification report from which model accuracy is observed as 88%
 <img src="https://github.com/naureen20/Implementinga-a-Gaussian-Bayes-Classifier-from-scratch/blob/master/Screenshot%20(81).png">
