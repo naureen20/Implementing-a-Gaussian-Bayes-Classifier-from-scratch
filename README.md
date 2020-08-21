@@ -3,7 +3,7 @@ Classifying data points using Gaussian Bayes Classifier as a part of ML Assignme
 
 Decision Boundary is visualized as follows:
 
-<img src="https://github.com/naureen20/Image-Classification-using-Transfer-Learning-and-optimal-Learning-Rate-Estimation/blob/master/Resnet%20learning%20rate.png">
+<img src="https://github.com/naureen20/Implementinga-a-Gaussian-Bayes-Classifier-from-scratch/blob/master/Screenshot%20(80).png">
 
 Model Has following CLassification report from which model accuracy is observed as 80%
-<img src="https://github.com/naureen20/Image-Classification-using-Transfer-Learning-and-optimal-Learning-Rate-Estimation/blob/master/Resnet%20learning%20rate.png">
+<img src="https://github.com/naureen20/Implementinga-a-Gaussian-Bayes-Classifier-from-scratch/blob/master/Screenshot%20(81).png">
